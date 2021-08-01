@@ -113,16 +113,16 @@
     margin: 15px 0;
   }
   
-  .alert i {
+.alert i {
     margin-right: 10px;
   }
   
-  .alert-success {
+.alert-success {
     background-color: var(--success-color);
     color: #fff;
   }
   
-  .alert-error {
+.alert-error {
     background-color: var(--error-color);
     color: #fff;
   }
